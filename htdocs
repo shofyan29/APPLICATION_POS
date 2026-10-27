@@ -1,0 +1,8 @@
+kasir_pos/
+├── koneksi.php
+├── login.php
+├── logout.php
+├── index.php         (Halaman Kasir)
+├── manajer.php       (Halaman Manajer - Laporan)
+├── it_backend.php    (Halaman IT - Kelola Menu & Harga)
+└── uploads/          (Folder untuk menyimpan foto menu)
